@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL_HERE" alt="Luthira's banner" width="500" />
+  <img src="image.png" alt="Luthira's banner" width="500" />
 </p>
 
 <h3 align="center">🎓 Software Engineering undergraduate | Passionate about coding, AI, and building useful projects with real-world impact 🚀</h3>
