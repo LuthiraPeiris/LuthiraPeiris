@@ -1,8 +1,12 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Luthira+Peiris!;" />
+    Hi there 👋 I'm Luthira Peiris.
 </h1>
+
+<p align="center">
+  <img src="YOUR_IMAGE_URL_HERE" alt="Luthira's banner" width="500" />
+</p>
 
 <h3 align="center">🎓 Software Engineering undergraduate | Passionate about coding, AI, and building useful projects with real-world impact 🚀</h3>
 
