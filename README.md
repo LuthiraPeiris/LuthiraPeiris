@@ -16,7 +16,7 @@
  
  🔭 I’m currently working on **Inventory System**
  
- 🌱 I’m currently learning **Docker, AWS**
+ 🌱 I’m currently learning **Docker, AWS, React**
 
 
  </div>
