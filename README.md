@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Luthira Peiris</h1>
 
-<p align="center">
-  <img src="image2.png" alt="Luthira's banner" width="400" />
-</p>
-
 <h3 align="center"> Software Engineering Undergraduate | AWS & Cloud Enthusiast | DevOps & Full-Stack Developer </h3>
 
 <p align="center"> Building practical software solutions and exploring cloud-native architectures, DevOps, and connected systems. </p>
